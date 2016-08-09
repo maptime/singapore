@@ -1,13 +1,13 @@
-baseurl: /starter
+baseurl: /singapore
 permalink: pretty
 future: true
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: singapore
 github_org: maptime
 maptime:
-  chapter: Chapter name
-  twitter: TwitterHandle
+  chapter: MaptimeSG
+  twitter: MaptimeSG
   #disqus: YOUR DISQUS USERNAME
 
 gems:
